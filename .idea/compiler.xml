@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="assignment-5-tests" />
+        <module name="core" />
+        <module name="cust-emailer" />
+        <module name="inventory" />
+        <module name="orders" />
+        <module name="orders-webapp" />
+        <module name="products" />
+        <module name="products-webapp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="assignment-5-tests" target="1.7" />
+      <module name="core" target="1.7" />
+      <module name="cust-emailer" target="1.7" />
+      <module name="dist-app-arch" target="1.7" />
+      <module name="inventory" target="1.7" />
+      <module name="orders" target="1.7" />
+      <module name="orders-webapp" target="1.7" />
+      <module name="products" target="1.7" />
+      <module name="products-webapp" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

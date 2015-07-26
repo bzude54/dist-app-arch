@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/assignment-5-tests/assignment-5-tests.iml" filepath="$PROJECT_DIR$/assignment-5-tests/assignment-5-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cust-emailer/cust-emailer.iml" filepath="$PROJECT_DIR$/cust-emailer/cust-emailer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dist-app-arch.iml" filepath="$PROJECT_DIR$/dist-app-arch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventory/inventory.iml" filepath="$PROJECT_DIR$/inventory/inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders/orders.iml" filepath="$PROJECT_DIR$/orders/orders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders-webapp/orders-webapp.iml" filepath="$PROJECT_DIR$/orders-webapp/orders-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/products/products.iml" filepath="$PROJECT_DIR$/products/products.iml" />
+      <module fileurl="file://$PROJECT_DIR$/products-webapp/products-webapp.iml" filepath="$PROJECT_DIR$/products-webapp/products-webapp.iml" />
+    </modules>
+  </component>
+</project>
